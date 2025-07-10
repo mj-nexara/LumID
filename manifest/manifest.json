@@ -1,0 +1,10 @@
+{
+  "@context": ["https://www.w3.org/2018/credentials/v1"],
+  "id": "urn:uuid:12345678-1234-5678-1234-567812345678",
+  "type": ["VerifiableCredential"],
+  "issuer": "did:key:z6MkgWS6mju6DzmtQna69G2rw13s3r3KQopreNViupVLoGg5",
+  "issuanceDate": "2025-07-10T00:00:00Z",
+  "credentialSubject": {
+    "id": "did:key:z6MkgWS6mju6DzmtQna69G2rw13s3r3KQopreNViupVLoGg5"
+  }
+}
