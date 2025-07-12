@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# LumID
-=======
 # 🕊️ LumID — Verifiable Constitution Engine
 
 _LumID is the formal successor to NexID Vault, designed to sign, verify, and anchor foundational governance manifests. It operates as part of the Nexara ethical framework curated by MJ Ahmad._
@@ -123,5 +120,3 @@ Honor the Constitution.
 > “LumID is not just software.  
 > It is a ritual of dignity.”  
 > — MJ Ahmad
-
->>>>>>> 6db38d1 (LumID - Signed & Verified Constitution by MJ)
